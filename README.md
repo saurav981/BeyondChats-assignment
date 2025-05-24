@@ -26,5 +26,3 @@ Live/deployed website - https://beyondchats-assignment-saurav.onrender.com
 1. **Clone:** `git clone https://github.com/saurav981/BeyondChats-assignment`
 2. **Install:** `npm install` or `yarn install`
 3. **Start:** `npm start` or `yarn start`
-
-App runs at `http://localhost:3000`.
